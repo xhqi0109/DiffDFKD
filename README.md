@@ -5,7 +5,7 @@
 ## DiffDFKD
 This repository provides the official implementation of **DiffDFKD**, a novel data-free knowledge distillation framework utilizing diffusion models.
 
-![Architecture](assets/pipeline.pdf.png)
+![Architecture](assets/pipeline.png)
 
 ## Requirements
 To set up the necessary dependencies, run the following command:
