@@ -42,7 +42,12 @@ bash script/distill/distill.sh
 ## Citation
 If you find our work helpful for your research, please cite our paper:
 ```bibtex
-to do
+@article{qi2025data,
+  title={Data-free Knowledge Distillation with Diffusion Models},
+  author={Qi, Xiaohua and Li, Renda and Peng, Long and Ling, Qiang and Yu, Jun and Chen, Ziyi and Chang, Peng and Han, Mei and Xiao, Jing},
+  journal={arXiv preprint arXiv:2504.00870},
+  year={2025}
+}
 ```
 ## Note
 Due to the loss of original code, we have recreated the core logic based on our understanding. There might be potential bugs in the current implementation.
