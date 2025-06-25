@@ -1,9 +1,10 @@
 # <h1 align="center">Data-Free Knowledge Distillation with Diffusion Models</h1>
+[![arXiv](http://img.shields.io/badge/cs.CV-arXiv%3A2503.06132-B31B1B.svg)](https://arxiv.org/abs/2504.00870)
 
 <!-- [![arXiv](http://img.shields.io/badge/cs.CV-arXiv%3A2503.06132-B31B1B.svg)](https://arxiv.org/abs/2503.06132) -->
 
 ## DiffDFKD
-This repository provides the official implementation of **DiffDFKD**, a novel data-free knowledge distillation framework utilizing diffusion models.
+This repository provides the official implementation of **DiffDFKD**[![arXiv](http://img.shields.io/badge/cs.CV-arXiv%3A2503.06132-B31B1B.svg)](https://arxiv.org/abs/2504.00870), a novel data-free knowledge distillation framework utilizing diffusion models.
 
 ![Architecture](assets/pipeline.png)
 
