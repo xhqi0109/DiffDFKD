@@ -1,10 +1,10 @@
 # <h1 align="center">Data-Free Knowledge Distillation with Diffusion Models</h1>
-
+**Oral Presentation**: Accepted as an Oral at **IEEE ICME 2025** (Nantes, France, June 30 - July 4, 2025).
 <!-- [![arXiv](http://img.shields.io/badge/cs.CV-arXiv%3A2503.06132-B31B1B.svg)](https://arxiv.org/abs/2503.06132) -->
 
 ## DiffDFKD
 This repository provides the official implementation of **DiffDFKD**([![arXiv](http://img.shields.io/badge/cs.CV-arXiv%3A2503.06132-B31B1B.svg)](https://arxiv.org/abs/2504.00870)), a novel data-free knowledge distillation framework utilizing diffusion models.
-**Oral Presentation**: Accepted as an Oral at **IEEE ICME 2025** (Nantes, France, June 30 - July 4, 2025) {insert\_element\_1\_}.
+
 
 ![Architecture](assets/pipeline.png)
 
